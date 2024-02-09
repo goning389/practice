@@ -3,7 +3,7 @@ package Programmers;
 import java.util.*;
 
 /* 로또의 최고 순위와 최저 순위 */
-public class Solution_20240129_2 {
+public class Solution_2 {
     public static void main(String[] args) {
         int[] lottos = {44, 1, 0, 0, 31, 25};
         int[] win_nums = {31, 10, 45, 1, 6, 19};

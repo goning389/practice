@@ -1,7 +1,7 @@
 package Programmers;
 
 /* 삼총사 */
-public class Solution_20240129_7 {
+public class Solution_7 {
     public static void main(String[] args) {
         int[] number = {-2, 3, 0, 2, -5};
         System.out.println(solution(number));

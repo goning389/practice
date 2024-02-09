@@ -3,7 +3,7 @@ package Programmers;
 import java.util.*;
 
 /* K번째수 */
-public class Solution_20240129_5 {
+public class Solution_5 {
     public static void main(String[] args) {
         int[] array = {1, 5, 2, 6, 3, 7, 4};
         int[][] commands = {{2, 5, 3}, {4, 4, 1}, {1, 7, 3}};

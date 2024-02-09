@@ -1,9 +1,7 @@
 package Programmers;
 
-import java.util.Arrays;
-
 /* 2016년 */
-public class Solution_20240129_3 {
+public class Solution_3 {
     public static void main(String[] args) {
         int a = 5;
         int b = 24;

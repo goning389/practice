@@ -1,9 +1,7 @@
 package Programmers;
 
-import java.util.Arrays;
-
 /* 숫자 문자열과 영단어 */
-public class Solution_20240129_6 {
+public class Solution_6 {
     public static void main(String[] args) {
         String s = "one4seveneight";
         System.out.println(solution(s));

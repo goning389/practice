@@ -2,7 +2,7 @@ package Programmers;
 import java.util.*;
 
 /* 두 개 뽑아서 더하기 */
-public class Solution_20240129_4 {
+public class Solution_4 {
     public static void main(String[] args) {
         int[] numbers = {2,1,3,4,1};
         System.out.println(solution(numbers));
